@@ -1,0 +1,5 @@
+*.mkv
+outputs/
+__pycache__/
+*.pyc
+.env
